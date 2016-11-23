@@ -1,0 +1,7 @@
+{
+  "name": "chfritz:easycron",
+  "version": "0.2.0",
+  "main": "main.d.ts",
+  "homepage": "https://github.com/chfritz/meteor-easycron",
+  "global": true
+}

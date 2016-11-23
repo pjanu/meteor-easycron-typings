@@ -1,0 +1,12 @@
+{
+  "name": "pjanu/meteor-easycron-typings",
+  "version": "1.0.0",
+  "description": "Type definitions for chfritz:easycron",
+  "scripts": {
+    "build": "typings bundle --global -o out/main.d.ts"
+  },
+  "devDependencies": {
+    "tsc": "^1.20150623.0",
+    "typings": "^1.0.4"
+  }
+}
